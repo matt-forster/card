@@ -15,5 +15,8 @@
     "info"
   ],
   "author": "Matt Forster <hey@mattforster.ca>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+  }
 }
