@@ -1,0 +1,19 @@
+{
+  "name": "matt-forster",
+  "version": "1.0.0",
+  "description": "VCard",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "yarn ."
+  },
+  "keywords": [
+    "personal",
+    "card",
+    "vcard",
+    "npx",
+    "bin",
+    "info"
+  ],
+  "author": "Matt Forster <hey@mattforster.ca>",
+  "license": "MIT"
+}
