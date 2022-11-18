@@ -1,7 +1,7 @@
 {
   "name": "matt-forster",
   "version": "1.0.0",
-  "description": "VCard",
+  "description": "vCard",
   "main": "bin/index.js",
   "scripts": {
     "test": "yarn ."
@@ -17,6 +17,5 @@
   "author": "Matt Forster <hey@mattforster.ca>",
   "license": "MIT",
   "devDependencies": {},
-  "dependencies": {
-  }
+  "dependencies": {}
 }
